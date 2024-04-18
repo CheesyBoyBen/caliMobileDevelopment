@@ -1,0 +1,170 @@
+[
+    {
+        "merged": "C:\\Users\\benja\\.gradle\\daemon\\8.4\\com.example.weatherapp-debug-31:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\benja\\.gradle\\daemon\\8.4\\com.example.weatherapp-main-33:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\benja\\.gradle\\daemon\\8.4\\com.example.weatherapp-debug-31:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\benja\\.gradle\\daemon\\8.4\\com.example.weatherapp-main-33:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\benja\\.gradle\\daemon\\8.4\\com.example.weatherapp-debug-31:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\benja\\.gradle\\daemon\\8.4\\com.example.weatherapp-main-33:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\benja\\.gradle\\daemon\\8.4\\com.example.weatherapp-debug-31:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\benja\\.gradle\\daemon\\8.4\\com.example.weatherapp-main-33:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\benja\\.gradle\\daemon\\8.4\\com.example.weatherapp-debug-31:\\drawable_night_rain.png.flat",
+        "source": "C:\\Users\\benja\\.gradle\\daemon\\8.4\\com.example.weatherapp-main-33:\\drawable\\night_rain.png"
+    },
+    {
+        "merged": "C:\\Users\\benja\\.gradle\\daemon\\8.4\\com.example.weatherapp-debug-31:\\drawable_wind.png.flat",
+        "source": "C:\\Users\\benja\\.gradle\\daemon\\8.4\\com.example.weatherapp-main-33:\\drawable\\wind.png"
+    },
+    {
+        "merged": "C:\\Users\\benja\\.gradle\\daemon\\8.4\\com.example.weatherapp-debug-31:\\drawable_rain_thunder.png.flat",
+        "source": "C:\\Users\\benja\\.gradle\\daemon\\8.4\\com.example.weatherapp-main-33:\\drawable\\rain_thunder.png"
+    },
+    {
+        "merged": "C:\\Users\\benja\\.gradle\\daemon\\8.4\\com.example.weatherapp-debug-31:\\drawable_overcast.png.flat",
+        "source": "C:\\Users\\benja\\.gradle\\daemon\\8.4\\com.example.weatherapp-main-33:\\drawable\\overcast.png"
+    },
+    {
+        "merged": "C:\\Users\\benja\\.gradle\\daemon\\8.4\\com.example.weatherapp-debug-31:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\benja\\.gradle\\daemon\\8.4\\com.example.weatherapp-main-33:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\benja\\.gradle\\daemon\\8.4\\com.example.weatherapp-debug-31:\\drawable_night_snow_thunder.png.flat",
+        "source": "C:\\Users\\benja\\.gradle\\daemon\\8.4\\com.example.weatherapp-main-33:\\drawable\\night_snow_thunder.png"
+    },
+    {
+        "merged": "C:\\Users\\benja\\.gradle\\daemon\\8.4\\com.example.weatherapp-debug-31:\\drawable_night_partial_cloud.png.flat",
+        "source": "C:\\Users\\benja\\.gradle\\daemon\\8.4\\com.example.weatherapp-main-33:\\drawable\\night_partial_cloud.png"
+    },
+    {
+        "merged": "C:\\Users\\benja\\.gradle\\daemon\\8.4\\com.example.weatherapp-debug-31:\\drawable_day_rain.png.flat",
+        "source": "C:\\Users\\benja\\.gradle\\daemon\\8.4\\com.example.weatherapp-main-33:\\drawable\\day_rain.png"
+    },
+    {
+        "merged": "C:\\Users\\benja\\.gradle\\daemon\\8.4\\com.example.weatherapp-debug-31:\\drawable_snow.png.flat",
+        "source": "C:\\Users\\benja\\.gradle\\daemon\\8.4\\com.example.weatherapp-main-33:\\drawable\\snow.png"
+    },
+    {
+        "merged": "C:\\Users\\benja\\.gradle\\daemon\\8.4\\com.example.weatherapp-debug-31:\\drawable_tornado.png.flat",
+        "source": "C:\\Users\\benja\\.gradle\\daemon\\8.4\\com.example.weatherapp-main-33:\\drawable\\tornado.png"
+    },
+    {
+        "merged": "C:\\Users\\benja\\.gradle\\daemon\\8.4\\com.example.weatherapp-debug-31:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\benja\\.gradle\\daemon\\8.4\\com.example.weatherapp-main-33:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\benja\\.gradle\\daemon\\8.4\\com.example.weatherapp-debug-31:\\drawable_day_partial_cloud.png.flat",
+        "source": "C:\\Users\\benja\\.gradle\\daemon\\8.4\\com.example.weatherapp-main-33:\\drawable\\day_partial_cloud.png"
+    },
+    {
+        "merged": "C:\\Users\\benja\\.gradle\\daemon\\8.4\\com.example.weatherapp-debug-31:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\benja\\.gradle\\daemon\\8.4\\com.example.weatherapp-main-33:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\benja\\.gradle\\daemon\\8.4\\com.example.weatherapp-debug-31:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\benja\\.gradle\\daemon\\8.4\\com.example.weatherapp-main-33:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\benja\\.gradle\\daemon\\8.4\\com.example.weatherapp-debug-31:\\drawable_night_clear.png.flat",
+        "source": "C:\\Users\\benja\\.gradle\\daemon\\8.4\\com.example.weatherapp-main-33:\\drawable\\night_clear.png"
+    },
+    {
+        "merged": "C:\\Users\\benja\\.gradle\\daemon\\8.4\\com.example.weatherapp-debug-31:\\menu_menu.xml.flat",
+        "source": "C:\\Users\\benja\\.gradle\\daemon\\8.4\\com.example.weatherapp-main-33:\\menu\\menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\benja\\.gradle\\daemon\\8.4\\com.example.weatherapp-debug-31:\\drawable_thunder.png.flat",
+        "source": "C:\\Users\\benja\\.gradle\\daemon\\8.4\\com.example.weatherapp-main-33:\\drawable\\thunder.png"
+    },
+    {
+        "merged": "C:\\Users\\benja\\.gradle\\daemon\\8.4\\com.example.weatherapp-debug-31:\\drawable_day_clear.png.flat",
+        "source": "C:\\Users\\benja\\.gradle\\daemon\\8.4\\com.example.weatherapp-main-33:\\drawable\\day_clear.png"
+    },
+    {
+        "merged": "C:\\Users\\benja\\.gradle\\daemon\\8.4\\com.example.weatherapp-debug-31:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\benja\\.gradle\\daemon\\8.4\\com.example.weatherapp-main-33:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\benja\\.gradle\\daemon\\8.4\\com.example.weatherapp-debug-31:\\drawable_cloudy.png.flat",
+        "source": "C:\\Users\\benja\\.gradle\\daemon\\8.4\\com.example.weatherapp-main-33:\\drawable\\cloudy.png"
+    },
+    {
+        "merged": "C:\\Users\\benja\\.gradle\\daemon\\8.4\\com.example.weatherapp-debug-31:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\benja\\.gradle\\daemon\\8.4\\com.example.weatherapp-main-33:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.weatherapp-debug-31:/layout_activity_main.xml.flat",
+        "source": "com.example.weatherapp-main-33:/layout/activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\benja\\.gradle\\daemon\\8.4\\com.example.weatherapp-debug-31:\\drawable_snow_thunder.png.flat",
+        "source": "C:\\Users\\benja\\.gradle\\daemon\\8.4\\com.example.weatherapp-main-33:\\drawable\\snow_thunder.png"
+    },
+    {
+        "merged": "C:\\Users\\benja\\.gradle\\daemon\\8.4\\com.example.weatherapp-debug-31:\\drawable_day_rain_thunder.png.flat",
+        "source": "C:\\Users\\benja\\.gradle\\daemon\\8.4\\com.example.weatherapp-main-33:\\drawable\\day_rain_thunder.png"
+    },
+    {
+        "merged": "C:\\Users\\benja\\.gradle\\daemon\\8.4\\com.example.weatherapp-debug-31:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\benja\\.gradle\\daemon\\8.4\\com.example.weatherapp-main-33:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\benja\\.gradle\\daemon\\8.4\\com.example.weatherapp-debug-31:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\benja\\.gradle\\daemon\\8.4\\com.example.weatherapp-main-33:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\benja\\.gradle\\daemon\\8.4\\com.example.weatherapp-debug-31:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\benja\\.gradle\\daemon\\8.4\\com.example.weatherapp-main-33:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\benja\\.gradle\\daemon\\8.4\\com.example.weatherapp-debug-31:\\drawable_night_sleet.png.flat",
+        "source": "C:\\Users\\benja\\.gradle\\daemon\\8.4\\com.example.weatherapp-main-33:\\drawable\\night_sleet.png"
+    },
+    {
+        "merged": "C:\\Users\\benja\\.gradle\\daemon\\8.4\\com.example.weatherapp-debug-31:\\drawable_day_snow_thunder.png.flat",
+        "source": "C:\\Users\\benja\\.gradle\\daemon\\8.4\\com.example.weatherapp-main-33:\\drawable\\day_snow_thunder.png"
+    },
+    {
+        "merged": "C:\\Users\\benja\\.gradle\\daemon\\8.4\\com.example.weatherapp-debug-31:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\benja\\.gradle\\daemon\\8.4\\com.example.weatherapp-main-33:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\benja\\.gradle\\daemon\\8.4\\com.example.weatherapp-debug-31:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\benja\\.gradle\\daemon\\8.4\\com.example.weatherapp-main-33:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\benja\\.gradle\\daemon\\8.4\\com.example.weatherapp-debug-31:\\drawable_mist.png.flat",
+        "source": "C:\\Users\\benja\\.gradle\\daemon\\8.4\\com.example.weatherapp-main-33:\\drawable\\mist.png"
+    },
+    {
+        "merged": "C:\\Users\\benja\\.gradle\\daemon\\8.4\\com.example.weatherapp-debug-31:\\drawable_day_sleet.png.flat",
+        "source": "C:\\Users\\benja\\.gradle\\daemon\\8.4\\com.example.weatherapp-main-33:\\drawable\\day_sleet.png"
+    },
+    {
+        "merged": "C:\\Users\\benja\\.gradle\\daemon\\8.4\\com.example.weatherapp-debug-31:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\benja\\.gradle\\daemon\\8.4\\com.example.weatherapp-main-33:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\benja\\.gradle\\daemon\\8.4\\com.example.weatherapp-debug-31:\\drawable_night_snow.png.flat",
+        "source": "C:\\Users\\benja\\.gradle\\daemon\\8.4\\com.example.weatherapp-main-33:\\drawable\\night_snow.png"
+    },
+    {
+        "merged": "C:\\Users\\benja\\.gradle\\daemon\\8.4\\com.example.weatherapp-debug-31:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\benja\\.gradle\\daemon\\8.4\\com.example.weatherapp-main-33:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\benja\\.gradle\\daemon\\8.4\\com.example.weatherapp-debug-31:\\drawable_fog.png.flat",
+        "source": "C:\\Users\\benja\\.gradle\\daemon\\8.4\\com.example.weatherapp-main-33:\\drawable\\fog.png"
+    },
+    {
+        "merged": "C:\\Users\\benja\\.gradle\\daemon\\8.4\\com.example.weatherapp-debug-31:\\drawable_rain.png.flat",
+        "source": "C:\\Users\\benja\\.gradle\\daemon\\8.4\\com.example.weatherapp-main-33:\\drawable\\rain.png"
+    }
+]
